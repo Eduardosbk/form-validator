@@ -9,8 +9,8 @@ Simple email validator project
 <p>Para as animações ao scroll utilizei uma lib bem simples chamada Scroll Reveal</p>
 
 <h1>
-  <img src="https://github.com/Eduardosbk/validator/blob/main/valid.gif"><br>
-  <img src="https://github.com/Eduardosbk/validator/blob/main/print.jpg">
+  <img width="400px" src="https://github.com/Eduardosbk/validator/blob/main/valid.gif">
+  <img width="400px" src="https://github.com/Eduardosbk/validator/blob/main/print.jpg">
 </h1><hr>
 <h1>🧪 Technologies</h1>
 <p>This project was developed using the following technologies:</p>
